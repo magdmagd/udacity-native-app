@@ -1,0 +1,12 @@
+{
+  "name": "udacity-native-app",
+  "displayName": "udacity-native-app",
+  "expo": {
+    "name": "udacity-native-app",
+    "slug": "udacity-native-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
